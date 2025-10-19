@@ -1,0 +1,14 @@
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\bin\Debug\net8.0\OldMacDonald.exe
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\bin\Debug\net8.0\OldMacDonald.deps.json
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\bin\Debug\net8.0\OldMacDonald.runtimeconfig.json
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\bin\Debug\net8.0\OldMacDonald.dll
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\bin\Debug\net8.0\OldMacDonald.pdb
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\OldMacDonald.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\OldMacDonald.AssemblyInfoInputs.cache
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\OldMacDonald.AssemblyInfo.cs
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\OldMacDonald.csproj.CoreCompileInputs.cache
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\OldMacDonald.dll
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\refint\OldMacDonald.dll
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\OldMacDonald.pdb
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\OldMacDonald.genruntimeconfig.cache
+C:\Users\tomes\OneDrive\Desktop\OldMacDonald\obj\Debug\net8.0\ref\OldMacDonald.dll
